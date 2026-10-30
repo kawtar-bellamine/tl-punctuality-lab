@@ -1,0 +1,285 @@
+{
+  "days": 2,
+  "first_day": "2026-09-29",
+  "last_day": "2026-09-30",
+  "test_from": "2026-09-30",
+  "raw_rows": 246126,
+  "cancelled_share": 0.007561167857113836,
+  "measured_share": 0.9818913889633765,
+  "net_events": 241492,
+  "net_trips": 13915,
+  "net_lines": 39,
+  "net_stops": 919,
+  "net_on_time_share": 0.7293657760919616,
+  "net_late_share": 0.21152667583191162,
+  "net_early_share": 0.05910754807612675,
+  "net_median_delay_s": 75.0,
+  "worst_lines_late": [
+    {
+      "line": "21",
+      "late_share": 0.4442069575471698,
+      "events": 13568
+    },
+    {
+      "line": "1",
+      "late_share": 0.41662039607625395,
+      "events": 16209
+    },
+    {
+      "line": "18",
+      "late_share": 0.3918168041757872,
+      "events": 11878
+    },
+    {
+      "line": "64",
+      "late_share": 0.36605621805792166,
+      "events": 4696
+    },
+    {
+      "line": "7",
+      "late_share": 0.2785847686241959,
+      "events": 9638
+    }
+  ],
+  "best_lines_on_time": [
+    {
+      "line": "13",
+      "on_time_share": 0.9215938303341902,
+      "events": 2334
+    },
+    {
+      "line": "36",
+      "on_time_share": 0.9037613488975357,
+      "events": 3855
+    },
+    {
+      "line": "42",
+      "on_time_share": 0.8939655172413793,
+      "events": 2320
+    },
+    {
+      "line": "m1",
+      "on_time_share": 0.8902028985507247,
+      "events": 8625
+    },
+    {
+      "line": "31",
+      "on_time_share": 0.8793544263342921,
+      "events": 6258
+    }
+  ],
+  "peak_hour_late_share": 0.35192069392812886,
+  "prediction": [
+    {
+      "k": 1,
+      "pairs": 37500,
+      "mae_persistence_s": 31.59557342529297,
+      "mae_model_s": 19.388783569497434,
+      "within_60s_persistence": 0.87464,
+      "within_60s_model": 0.9535733333333334,
+      "mae_reduction": 0.3863449379913366
+    },
+    {
+      "k": 3,
+      "pairs": 37500,
+      "mae_persistence_s": 49.54426574707031,
+      "mae_model_s": 35.33555094591453,
+      "within_60s_persistence": 0.7131733333333333,
+      "within_60s_model": 0.8476266666666666,
+      "mae_reduction": 0.28678828088184927
+    },
+    {
+      "k": 5,
+      "pairs": 37500,
+      "mae_persistence_s": 61.40568161010742,
+      "mae_model_s": 47.977112492466915,
+      "within_60s_persistence": 0.6098666666666667,
+      "within_60s_model": 0.73464,
+      "mae_reduction": 0.21868610144098055
+    },
+    {
+      "k": 10,
+      "pairs": 37500,
+      "mae_persistence_s": 85.91413116455078,
+      "mae_model_s": 73.83866468771413,
+      "within_60s_persistence": 0.47082666666666667,
+      "within_60s_model": 0.54072,
+      "mae_reduction": 0.1405527392660072
+    }
+  ],
+  "prediction_intervals": [
+    {
+      "k": 1,
+      "coverage": 0.782,
+      "mean_width_s": 58.694679965139564,
+      "coverage_raw": 0.7373066666666667,
+      "mean_width_raw_s": 54.703319888927076
+    },
+    {
+      "k": 3,
+      "coverage": 0.7826133333333334,
+      "mean_width_s": 109.29817230725706,
+      "coverage_raw": 0.74536,
+      "mean_width_raw_s": 101.89928141411147
+    },
+    {
+      "k": 5,
+      "coverage": 0.7827733333333333,
+      "mean_width_s": 149.55135109326685,
+      "coverage_raw": 0.7506933333333333,
+      "mean_width_raw_s": 140.477685764747
+    },
+    {
+      "k": 10,
+      "coverage": 0.7763466666666666,
+      "mean_width_s": 222.58302234526366,
+      "coverage_raw": 0.7499466666666667,
+      "mean_width_raw_s": 211.1571066539403
+    }
+  ],
+  "interval_coverage_k5": 0.7827733333333333,
+  "mae_reduction_k5": 0.21868610144098055,
+  "mae_reduction_k10": 0.1405527392660072,
+  "train_pairs": 400000,
+  "test_pairs": 150000,
+  "timetable": {
+    "before": {
+      "on_time": 0.7151246615325104,
+      "late": 0.2354327109048071,
+      "early": 0.04944262756268242
+    },
+    "after": {
+      "on_time": 0.7180697682596617,
+      "late": 0.22557759257305623,
+      "early": 0.05635263916728206
+    },
+    "segments_changed": 152,
+    "median_minutes_added_per_trip": 0.30000001192092896,
+    "share_trips_changed": 0.4188882586500284
+  },
+  "delay_created": {
+    "segments": 476,
+    "min_per_weekday": 23449.708984375,
+    "top10_share": 0.12810498476028442,
+    "top": [
+      {
+        "from_name": "Pont Chauderon",
+        "to_name": "C\u00e9cil",
+        "lines": "1 3 6 20 21",
+        "created_min_per_day": 472.3999938964844,
+        "median_gain_s": 60.0
+      },
+      {
+        "from_name": "St-Fran\u00e7ois",
+        "to_name": "Bel-Air",
+        "lines": "1 2 4 6 8 9 25",
+        "created_min_per_day": 444.85833740234375,
+        "median_gain_s": 33.0
+      },
+      {
+        "from_name": "Chauderon",
+        "to_name": "Bel-Air",
+        "lines": "1 2 4 6 7 8 9 16 18 21",
+        "created_min_per_day": 293.2916564941406,
+        "median_gain_s": 21.0
+      },
+      {
+        "from_name": "Bateli\u00e8re",
+        "to_name": "Riant-Cour",
+        "lines": "1 25",
+        "created_min_per_day": 281.9333190917969,
+        "median_gain_s": 60.0
+      },
+      {
+        "from_name": "Riponne-M.B\u00e9jart",
+        "to_name": "Bel-Air",
+        "lines": "1 2 4 7 8 9 16 18 20 21",
+        "created_min_per_day": 269.3083190917969,
+        "median_gain_s": 18.0
+      }
+    ]
+  },
+  "regularity": {
+    "headways": 111004,
+    "bunched_share": 0.06500666642643509,
+    "gap_share": 0.06642102987279738,
+    "ewt_min": 0.5491963704427087,
+    "swt_min": 4.288933308919271,
+    "awt_min": 4.8381296793619795,
+    "worst_lines": [
+      {
+        "line": "m1",
+        "bunched_share": 0.03666832586693214,
+        "ewt_min": 1.1932759602864587,
+        "sched_headway_min": 6.0
+      },
+      {
+        "line": "1",
+        "bunched_share": 0.15379966762350808,
+        "ewt_min": 1.1477806091308596,
+        "sched_headway_min": 7.0
+      },
+      {
+        "line": "64",
+        "bunched_share": 0.13825424721734036,
+        "ewt_min": 1.0441446940104164,
+        "sched_headway_min": 10.0
+      },
+      {
+        "line": "21",
+        "bunched_share": 0.11168258633357825,
+        "ewt_min": 0.8907180786132818,
+        "sched_headway_min": 10.0
+      },
+      {
+        "line": "32",
+        "bunched_share": 0.02498975829578042,
+        "ewt_min": 0.4854721069335941,
+        "sched_headway_min": 10.0
+      }
+    ]
+  },
+  "connections": {
+    "hubs": 12,
+    "planned": 187054,
+    "connections": 187054.0,
+    "missed_share": 0.10162306072043367,
+    "extra_wait_min_when_missed": 11.35824434040016,
+    "missed_by_60s_or_less": 0.3485717291809143,
+    "hold": [
+      {
+        "hold_s": 30,
+        "missed": 19009,
+        "recovered": 3616,
+        "missed_share_after": 0.08229174462989297,
+        "departures_held": 3139,
+        "departures_held_share": 0.145243383305571,
+        "mean_hold_s": 15.309652755654668
+      },
+      {
+        "hold_s": 60,
+        "missed": 19009,
+        "recovered": 6626,
+        "missed_share_after": 0.06620013472045505,
+        "departures_held": 5133,
+        "departures_held_share": 0.23750694058856192,
+        "mean_hold_s": 30.575297097214104
+      },
+      {
+        "hold_s": 90,
+        "missed": 19009,
+        "recovered": 8843,
+        "missed_share_after": 0.05434794230543052,
+        "departures_held": 6341,
+        "departures_held_share": 0.2934018138071442,
+        "mean_hold_s": 44.65289386532093
+      }
+    ],
+    "missed_share_by_walk_s": {
+      "60": 0.06619588808228112,
+      "180": 0.15196505616355596,
+      "120": 0.10162306072043367
+    }
+  },
+  "runtime_s": 72.1
+}

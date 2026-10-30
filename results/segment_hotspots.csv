@@ -1,0 +1,201 @@
+line,from_stop,to_stop,band,size,median,from_name,to_name
+18,859221101,859210201,pm_peak,106,141.0,Florissant,Prélaz
+18,859221101,859210201,am_peak,66,109.0,Florissant,Prélaz
+7,851054301,859210201,day,317,97.0,"Prilly, aréna",Prélaz
+7,859210202,851054301,day,644,91.0,Prélaz,"Prilly, aréna"
+18,859221101,859210201,day,241,89.0,Florissant,Prélaz
+6,859209601,859200401,am_peak,221,85.0,Pont Chauderon,Cécil
+7,851054301,859210201,evening,143,84.0,"Prilly, aréna",Prélaz
+7,859210202,851054301,pm_peak,293,78.0,Prélaz,"Prilly, aréna"
+7,859204904,851054301,day,509,78.0,"Prilly, Galicien","Prilly, aréna"
+7,851054301,859210201,pm_peak,139,76.0,"Prilly, aréna",Prélaz
+7,851054301,859210201,am_peak,83,75.0,"Prilly, aréna",Prélaz
+20,859199402,859199602,evening,417,75.0,Blécherette,Bois-Gentil
+20,859199402,859199602,early,162,72.5,Blécherette,Bois-Gentil
+20,859209601,859200401,am_peak,207,70.0,Pont Chauderon,Cécil
+9,859220402,858884205,day,1137,70.0,"Renens, Biondes",Place Centrale
+9,859220402,858884205,am_peak,323,68.0,"Renens, Biondes",Place Centrale
+m1,859386903,850121704,evening,47,66.0,Glycines,Crochy
+21,859209601,859200401,am_peak,285,64.0,Pont Chauderon,Cécil
+7,851054301,859204912,day,332,64.0,"Prilly, aréna","Prilly, Galicien"
+18,859221101,859204912,pm_peak,113,64.0,Florissant,"Prilly, Galicien"
+7,851054301,859204903,day,500,63.0,"Prilly, aréna","Prilly, Galicien"
+60,850417603,858735702,pm_peak,218,61.0,Tunnel,Bellevaux
+3,859209601,859200401,am_peak,266,59.5,Pont Chauderon,Cécil
+7,859204904,851054301,pm_peak,217,57.0,"Prilly, Galicien","Prilly, aréna"
+16,859201006,859212202,day,602,56.5,Chauderon,Tivoli
+6,859209601,859200401,pm_peak,351,56.0,Pont Chauderon,Cécil
+56,858191403,858191801,pm_peak,63,56.0,"Bussigny, gare","Buss., Gd-Record"
+18,859221101,859204912,am_peak,67,55.0,Florissant,"Prilly, Galicien"
+4,859205106,859203802,pm_peak,366,54.0,Georgette,Eglantine
+6,859209601,859200401,day,801,52.0,Pont Chauderon,Cécil
+9,859205106,859203802,pm_peak,488,50.0,Georgette,Eglantine
+31,853074909,859386903,evening,417,50.0,"Renens VD, gare",Glycines
+9,859205106,859203802,am_peak,342,49.0,Georgette,Eglantine
+16,859199001,850120705,evening,393,49.0,Belvédère,Montelly
+18,859211503,859209202,early,184,49.0,"Lausanne, Signal",Piécettes
+56,858191403,858191801,am_peak,42,48.5,"Bussigny, gare","Buss., Gd-Record"
+7,859204904,851054301,evening,250,48.0,"Prilly, Galicien","Prilly, aréna"
+18,859221101,859210201,evening,146,47.5,Florissant,Prélaz
+31,853074909,859386903,early,208,47.0,"Renens VD, gare",Glycines
+21,859209601,859200401,day,884,46.0,Pont Chauderon,Cécil
+33,851184600,859217901,pm_peak,240,46.0,"Prilly-M., gare",Flumeaux
+20,859199402,859199602,pm_peak,306,44.5,Blécherette,Bois-Gentil
+3,859209601,859200401,day,869,44.0,Pont Chauderon,Cécil
+20,859209601,859200401,day,583,44.0,Pont Chauderon,Cécil
+4,859205106,859203802,am_peak,246,43.0,Georgette,Eglantine
+18,859211503,859209202,pm_peak,374,42.0,"Lausanne, Signal",Piécettes
+64,859197004,858952502,pm_peak,373,42.0,Pré-d'Yverdon,Planches
+64,859205802,858754701,early,219,42.0,Haute Combe,Chalet à Matthey
+20,859205017,859213402,early,163,42.0,"Lausanne, gare",Villard
+54,853074903,859381502,pm_peak,229,42.0,"Renens VD, gare","Crissier, Jura"
+58,858884605,859551601,early,21,42.0,Croix-Péage,Mongevon
+31,853074909,859386903,pm_peak,350,42.0,"Renens VD, gare",Glycines
+18,859221101,859204912,day,250,41.5,Florissant,"Prilly, Galicien"
+54,853074903,859381502,evening,105,41.0,"Renens VD, gare","Crissier, Jura"
+18,859211503,859209202,evening,471,41.0,"Lausanne, Signal",Piécettes
+54,853074903,859381502,am_peak,144,41.0,"Renens VD, gare","Crissier, Jura"
+64,859205802,858754701,evening,403,41.0,Haute Combe,Chalet à Matthey
+9,859205106,859203802,day,1165,41.0,Georgette,Eglantine
+7,851054301,859204903,evening,199,41.0,"Prilly, aréna","Prilly, Galicien"
+7,851054301,859204912,evening,141,41.0,"Prilly, aréna","Prilly, Galicien"
+54,853074903,859381502,early,63,41.0,"Renens VD, gare","Crissier, Jura"
+18,859211503,859209202,day,860,41.0,"Lausanne, Signal",Piécettes
+17,859213304,859212202,pm_peak,432,41.0,"Lausanne, Vigie",Tivoli
+54,858206501,850754001,early,42,40.5,"Morrens, Village","Cugy VD, Grillon"
+1,851072702,851181301,evening,21,40.0,EPFL/Colladon,Campus Médias
+54,858206501,850754001,am_peak,84,40.0,"Morrens, Village","Cugy VD, Grillon"
+45,857923912,858952501,pm_peak,227,40.0,Croisettes,Planches
+16,859199001,850120705,early,146,40.0,Belvédère,Montelly
+4,859205106,859203802,day,858,40.0,Georgette,Eglantine
+49,858844604,859519201,am_peak,96,40.0,"Pully, Clergère",Ruisselet
+58,853074903,859381502,am_peak,61,40.0,"Renens VD, gare","Crissier, Jura"
+58,853074903,859381502,day,98,40.0,"Renens VD, gare","Crissier, Jura"
+2,859199202,859205702,am_peak,228,40.0,Bergières,Grey
+1,851072702,851181301,pm_peak,558,40.0,EPFL/Colladon,Campus Médias
+16,859201006,859212202,evening,390,39.5,Chauderon,Tivoli
+54,853074903,859381502,day,313,39.0,"Renens VD, gare","Crissier, Jura"
+54,858206501,850754001,pm_peak,125,39.0,"Morrens, Village","Cugy VD, Grillon"
+18,858884501,858884303,evening,543,39.0,Crissier Timonet,"Crissier, bourg"
+45,859203701,858754901,am_peak,162,39.0,Cojonnex/EHL,Vulliette
+31,853074909,859386903,am_peak,250,38.5,"Renens VD, gare",Glycines
+54,858206501,850754001,evening,126,38.5,"Morrens, Village","Cugy VD, Grillon"
+47,857925615,858843501,evening,417,38.0,"Pully, Val-Vert",Chenaulaz
+58,857012904,858111401,am_peak,58,38.0,"Coss.-Pent.,gare","Penthalaz, Verney"
+1,851072702,851181301,am_peak,364,37.5,EPFL/Colladon,Campus Médias
+24,859208601,859209002,pm_peak,250,37.0,Ouchy-Olympique,Pêcheurs
+56,858191403,858191801,day,146,37.0,"Bussigny, gare","Buss., Gd-Record"
+58,857012904,858111401,pm_peak,71,37.0,"Coss.-Pent.,gare","Penthalaz, Verney"
+58,853074903,859381502,early,62,36.5,"Renens VD, gare","Crissier, Jura"
+58,857012904,858111401,day,88,36.5,"Coss.-Pent.,gare","Penthalaz, Verney"
+36,859193601,859381702,early,231,36.0,Closalet,Feleire
+58,858884605,859551601,am_peak,83,36.0,Croix-Péage,Mongevon
+7,859210202,851054301,evening,328,36.0,Prélaz,"Prilly, aréna"
+18,858884501,858884303,early,243,36.0,Crissier Timonet,"Crissier, bourg"
+45,859203701,858754901,pm_peak,227,36.0,Cojonnex/EHL,Vulliette
+18,859221101,859210201,early,47,36.0,Florissant,Prélaz
+1,851072702,851181301,early,82,36.0,EPFL/Colladon,Campus Médias
+46,857923912,858952501,pm_peak,241,36.0,Croisettes,Planches
+58,857012904,858111401,early,30,35.5,"Coss.-Pent.,gare","Penthalaz, Verney"
+13,859207401,859199101,evening,164,35.0,Mon Repos,Benj. Constant
+36,853074904,859381502,pm_peak,491,35.0,"Renens VD, gare","Crissier, Jura"
+54,858884504,850763201,pm_peak,228,35.0,Crissier Timonet,Montremoën
+54,858206501,850754001,day,293,35.0,"Morrens, Village","Cugy VD, Grillon"
+2,859383803,859212102,pm_peak,328,35.0,Maladière-Lac,Théâtre de Vidy
+64,859205802,858754701,day,687,35.0,Haute Combe,Chalet à Matthey
+4,859203201,859203502,evening,512,35.0,Dranse,Gymnase Beaulieu
+1,851072702,851181301,day,1176,35.0,EPFL/Colladon,Campus Médias
+24,859208601,859209002,am_peak,158,35.0,Ouchy-Olympique,Pêcheurs
+58,859551603,858884603,pm_peak,101,35.0,Mongevon,Croix-Péage
+16,859201006,859212202,early,146,35.0,Chauderon,Tivoli
+7,851054301,859204903,early,45,35.0,"Prilly, aréna","Prilly, Galicien"
+19,859201002,859200101,pm_peak,367,34.0,Chauderon,Boston
+20,859199402,859199602,am_peak,207,34.0,Blécherette,Bois-Gentil
+58,853074903,859381502,evening,42,34.0,"Renens VD, gare","Crissier, Jura"
+9,859198802,859044204,am_peak,21,34.0,Bel-Air,Riponne-M.Béjart
+33,851184600,859217901,am_peak,164,33.5,"Prilly-M., gare",Flumeaux
+2,859199202,859205702,early,246,33.0,Bergières,Grey
+36,853074904,859381502,am_peak,333,33.0,"Renens VD, gare","Crissier, Jura"
+4,859201006,851184501,day,858,33.0,Chauderon,Hôp. ophtalmique
+20,859205017,859213402,evening,425,33.0,"Lausanne, gare",Villard
+2,859383803,859212102,am_peak,247,33.0,Maladière-Lac,Théâtre de Vidy
+44,851138302,857923910,day,459,33.0,Vaugueny,Croisettes
+35,859417801,859597801,am_peak,105,32.0,"Bussigny, Rente",Colice
+19,859201002,859200101,day,873,32.0,Chauderon,Boston
+19,859201002,859200101,am_peak,245,32.0,Chauderon,Boston
+45,859203701,858754901,day,547,32.0,Cojonnex/EHL,Vulliette
+32,859220902,859386602,pm_peak,341,32.0,Censuy,Préfaully
+16,859199002,859212201,pm_peak,245,31.0,Belvédère,Tivoli
+21,859197901,859205013,day,40,31.0,Alpes,"Lausanne, gare"
+2,859199202,859205702,pm_peak,347,31.0,Bergières,Grey
+2,859199202,859205702,evening,499,31.0,Bergières,Grey
+2,859199202,859205702,day,782,31.0,Bergières,Grey
+7,851054301,859210201,early,42,31.0,"Prilly, aréna",Prélaz
+8,859205101,859197902,am_peak,282,31.0,Georgette,Alpes
+m1,850120901,850121010,early,225,31.0,Malley,Bourdonnette
+36,853074904,859381502,day,961,31.0,"Renens VD, gare","Crissier, Jura"
+44,851138302,857923910,evening,314,30.0,Vaugueny,Croisettes
+49,858844604,859519201,pm_peak,233,30.0,"Pully, Clergère",Ruisselet
+45,859203701,858754901,early,137,30.0,Cojonnex/EHL,Vulliette
+46,859196601,858952502,day,565,30.0,Croix Blanche,Planches
+45,859196601,858952502,day,547,30.0,Croix Blanche,Planches
+33,851184600,859217901,day,585,30.0,"Prilly-M., gare",Flumeaux
+33,859217304,859218002,am_peak,164,30.0,"Prilly, centre",Grand Vigne
+20,859205017,859213402,pm_peak,302,29.5,"Lausanne, gare",Villard
+46,859196601,858952502,evening,406,29.0,Croix Blanche,Planches
+47,857925615,858843501,early,203,29.0,"Pully, Val-Vert",Chenaulaz
+m1,850121003,850120907,early,249,29.0,Bourdonnette,Malley
+1,859198504,859202401,pm_peak,564,29.0,jardin botanique,Cour
+45,857923912,858952501,am_peak,149,29.0,Croisettes,Planches
+69,859216202,859386103,early,60,29.0,Savuit-Place,"Lutry, gare"
+45,857923912,858952501,day,549,29.0,Croisettes,Planches
+18,859210202,859221102,pm_peak,207,29.0,Prélaz,Florissant
+49,858844604,859519201,day,435,29.0,"Pully, Clergère",Ruisselet
+2,859208601,859209002,pm_peak,328,29.0,Ouchy-Olympique,Pêcheurs
+33,859217603,859217502,day,584,28.5,Coudraie,Prilly-Chasseur
+18,859204904,859221102,pm_peak,164,28.5,"Prilly, Galicien",Florissant
+58,858885004,858884605,early,21,28.0,"Mex, Les Esserts",Croix-Péage
+32,859221801,859221901,evening,451,28.0,Caudray,Rue du Lac
+m1,850120901,850121010,evening,598,28.0,Malley,Bourdonnette
+9,859205106,859203802,evening,495,28.0,Georgette,Eglantine
+36,859193601,859381702,evening,521,28.0,Closalet,Feleire
+31,853074909,859386903,day,622,27.5,"Renens VD, gare",Glycines
+33,859195802,859195302,am_peak,163,27.0,Suchet-Forêt,Parc
+33,859195802,859195302,pm_peak,242,27.0,Suchet-Forêt,Parc
+33,859221801,859221901,early,187,27.0,Caudray,Rue du Lac
+33,859221801,859221901,evening,412,27.0,Caudray,Rue du Lac
+54,858884504,850763201,day,312,27.0,Crissier Timonet,Montremoën
+8,859205101,859197902,pm_peak,434,27.0,Georgette,Alpes
+9,858884205,859220401,am_peak,328,27.0,Place Centrale,"Renens, Biondes"
+m1,850121003,850120907,evening,578,27.0,Bourdonnette,Malley
+45,859196601,858952502,early,156,26.0,Croix Blanche,Planches
+24,859208601,859209002,day,562,26.0,Ouchy-Olympique,Pêcheurs
+8,859205101,859197902,day,1035,26.0,Georgette,Alpes
+46,859196601,858952502,early,156,26.0,Croix Blanche,Planches
+35,859417801,859597801,pm_peak,125,26.0,"Bussigny, Rente",Colice
+13,859207401,859199101,pm_peak,245,26.0,Mon Repos,Benj. Constant
+33,859195802,859195302,day,585,26.0,Suchet-Forêt,Parc
+32,859221801,859221901,early,184,26.0,Caudray,Rue du Lac
+21,859199202,859199801,early,345,26.0,Bergières,Boisy
+47,858843901,858844002,evening,413,26.0,"Pully, port","Pully, Somais"
+54,858884504,850763201,evening,105,26.0,Crissier Timonet,Montremoën
+33,859217304,859218002,day,584,26.0,"Prilly, centre",Grand Vigne
+20,859209601,859200401,pm_peak,299,25.0,Pont Chauderon,Cécil
+32,859386802,859386601,evening,430,25.0,Concorde,Préfaully
+13,857925305,857925408,pm_peak,245,25.0,Montbenon,St-François
+21,859207201,859197902,evening,511,25.0,Mirabeau,Alpes
+32,859220902,859386602,day,618,25.0,Censuy,Préfaully
+18,858884202,859220401,am_peak,236,25.0,Place Centrale,"Renens, Biondes"
+18,859221101,859204903,pm_peak,160,25.0,Florissant,"Prilly, Galicien"
+4,859205106,859203802,evening,485,25.0,Georgette,Eglantine
+47,857925615,858843501,am_peak,200,25.0,"Pully, Val-Vert",Chenaulaz
+32,859220902,859386602,am_peak,236,24.0,Censuy,Préfaully
+36,859381605,859193903,pm_peak,491,24.0,Marcolet,"Crissier, Vernie"
+68,859215401,859215801,pm_peak,115,24.0,Les Champs,Orzens
+9,858884205,859220401,day,1164,24.0,Place Centrale,"Renens, Biondes"
+13,859207401,859199101,day,572,24.0,Mon Repos,Benj. Constant
+7,851054301,859204912,pm_peak,147,24.0,"Prilly, aréna","Prilly, Galicien"
+m1,859213303,850120703,early,242,24.0,Vigie,Montelly
+21,859209601,859200401,pm_peak,416,24.0,Pont Chauderon,Cécil
+2,859208601,859209002,am_peak,248,23.5,Ouchy-Olympique,Pêcheurs
+32,859386802,859386601,early,184,23.0,Concorde,Préfaully

@@ -1,0 +1,986 @@
+stop,name
+850120700,Montelly
+850120701,Montelly
+850120702,Montelly
+850120703,Montelly
+850120705,Montelly
+850120706,Montelly
+850120707,Montelly
+850120802,Provence
+850120803,Provence
+850120901,Malley
+850120902,Malley
+850120904,Malley
+850120905,Malley
+850120907,Malley
+850121001,Bourdonnette
+850121002,Bourdonnette
+850121003,Bourdonnette
+850121010,Bourdonnette
+850121011,Bourdonnette
+850121106,UNIL-Chamberonne
+850121107,UNIL-Chamberonne
+850121204,UNIL-Mouline
+850121205,UNIL-Mouline
+850121301,UNIL-Sorge
+850121303,UNIL-Sorge
+850121304,UNIL-Sorge
+850121305,UNIL-Sorge
+850121401,EPFL
+850121403,EPFL
+850121501,Bassenges
+850121502,Bassenges
+850121601,Cerisaie
+850121602,Cerisaie
+850121603,Cerisaie
+850121604,Cerisaie
+850121701,Crochy
+850121702,Crochy
+850121703,Crochy
+850121704,Crochy
+850121803,Epenex
+850121804,Epenex
+850129901,"Penthaz, village"
+850129902,"Penthaz, village"
+850417101,"Lausanne, En Marin"
+850417102,"Lausanne, En Marin"
+850417601,Tunnel
+850417603,Tunnel
+850417605,Tunnel
+850417607,Tunnel
+850417610,Tunnel
+850417701,Grand-Mont
+850417702,Grand-Mont
+850417703,Grand-Mont
+850417706,Grand-Mont
+850417801,"Cugy VD, poste"
+850417802,"Cugy VD, poste"
+850552901,"Buss.,St-Germain"
+850552902,"Buss.,St-Germain"
+850690301,"Buss., Sottelles"
+850690302,"Buss., Sottelles"
+850690501,"Buss., Tatironne"
+850690502,"Buss., Tatironne"
+850690701,"Bussigny, Jordil"
+850690702,"Bussigny, Jordil"
+850722701,Chavannes Cèdres
+850722702,Chavannes Cèdres
+850754001,"Cugy VD, Grillon"
+850754002,"Cugy VD, Grillon"
+850762401,"Assens, gare"
+850762402,"Assens, gare"
+850762601,"Etagnières, gare"
+850762602,"Etagnières, gare"
+850762801,Romanel
+850762802,Romanel
+850763201,Montremoën
+850763202,Montremoën
+850949101,Chalet-à-Go/Jora
+850949102,Chalet-à-Go/Jora
+851042101,"Crissier, Chicorée"
+851042201,Talluchet
+851042202,Talluchet
+851052801,Pré-Fleuri
+851052802,Pré-Fleuri
+851054301,"Prilly, aréna"
+851057401,Eugène-Rambert
+851057501,César-Roux
+851057502,César-Roux
+851072101,Epenex/Pont-Bleu
+851072102,Epenex/Pont-Bleu
+851072702,EPFL/Colladon
+851073801,"Les Ripes, gare"
+851073802,"Les Ripes, gare"
+851075101,Cheseaux. Bel-Air
+851075102,Cheseaux. Bel-Air
+851090302,Jouxtens-Mézery
+851090303,Jouxtens-Mézery
+851090401,Vernand-Camarès
+851090402,Vernand-Camarès
+851124501,Rionzi/collège
+851138301,Vaugueny
+851138302,Vaugueny
+851140600,Union-Prilly
+851158301,Chalet-Enfants
+851158302,Chalet-Enfants
+851181301,Campus Médias
+851181302,Campus Médias
+851184501,Hôp. ophtalmique
+851184600,"Prilly-M., gare"
+851187401,"Renens, Roche"
+851187402,"Renens, Roche"
+851187501,Gare/Epenex
+851187502,Gare/Epenex
+853074901,"Renens VD, gare"
+853074902,"Renens VD, gare"
+853074903,"Renens VD, gare"
+853074904,"Renens VD, gare"
+853074905,"Renens VD, gare"
+853074907,"Renens VD, gare"
+853074909,"Renens VD, gare"
+853074910,"Renens VD, gare"
+853074919,"Renens VD, gare"
+857006301,"Cheseaux, gare"
+857006302,"Cheseaux, gare"
+857010960,"Cossonay, Centre"
+857012903,"Coss.-Pent.,gare"
+857012904,"Coss.-Pent.,gare"
+857013001,"Penthalaz, poste"
+857013201,"Penthaz, La Vaux"
+857013202,"Penthaz, La Vaux"
+857016401,"Cugy VD, Moulin"
+857016402,"Cugy VD, Moulin"
+857016701,Froid. Village
+857016702,Froid. Village
+857016801,Froid. Croisée
+857016802,Froid. Croisée
+857016903,Froid.-Laiterie
+857017603,Bretigny/Morrens
+857017604,Bretigny/Morrens
+857017801,"Bottens, croisée"
+857017802,"Bottens, croisée"
+857017901,La Rustériaz
+857017902,La Rustériaz
+857023803,"Echallens, gare"
+857363401,"Cugy VD, village"
+857363403,"Cugy VD, village"
+857764501,Martheray
+857764502,Martheray
+857923101,Venoge sud
+857923102,Venoge sud
+857923301,EPFL
+857923302,EPFL
+857923401,Ecublens Piccard
+857923501,Coppoz
+857923502,Coppoz
+857923705,Ours
+857923706,Ours
+857923801,Sallaz
+857923802,Sallaz
+857923811,Sallaz
+857923814,Sallaz
+857923901,Croisettes
+857923906,Croisettes
+857923907,Croisettes
+857923910,Croisettes
+857923912,Croisettes
+857924501,Foyer
+857924502,Foyer
+857924504,Foyer
+857925301,Montbenon
+857925302,Montbenon
+857925305,Montbenon
+857925402,St-François
+857925403,St-François
+857925406,St-François
+857925408,St-François
+857925500,Pont de Chailly
+857925501,Pont de Chailly
+857925503,Pont de Chailly
+857925504,Pont de Chailly
+857925506,Pont de Chailly
+857925601,"Pully, Val-Vert"
+857925603,"Pully, Val-Vert"
+857925608,"Pully, Val-Vert"
+857925615,"Pully, Val-Vert"
+857925701,"Belmont, centre"
+857925702,"Belmont, centre"
+857925801,Blessoney
+857925802,Blessoney
+857925901,"Lutry, Landar"
+857925903,"Lutry, Landar"
+857925904,"Lutry, Landar"
+857925905,"Lutry, Landar"
+857926001,Croix-sur-Lutry
+857926005,Croix-sur-Lutry
+857926006,Croix-sur-Lutry
+857926008,Croix-sur-Lutry
+857926009,Croix-sur-Lutry
+858111401,"Penthalaz, Verney"
+858111402,"Penthalaz, Verney"
+858191401,"Bussigny, gare"
+858191403,"Bussigny, gare"
+858191601,"Buss., Condémine"
+858191701,"Bussigny, Dallaz"
+858191704,"Bussigny, Dallaz"
+858191801,"Buss., Gd-Record"
+858191802,"Buss., Gd-Record"
+858192001,"Bussigny, Sauge"
+858192002,"Bussigny, Sauge"
+858192101,"Buss.,Vieux-Four"
+858192102,"Buss.,Vieux-Four"
+858192201,"Bussigny,Riettaz"
+858192401,"Bussigny, Sullens"
+858206501,"Morrens, Village"
+858206502,"Morrens, Village"
+858374801,En Coulaye
+858374803,En Coulaye
+858735702,Bellevaux
+858735704,Bellevaux
+858735705,Bellevaux
+858735706,Bellevaux
+858735707,Bellevaux
+858735708,Bellevaux
+858754601,Lion d Or
+858754602,Lion d Or
+858754603,Lion d Or
+858754701,Chalet à Matthey
+858754702,Chalet à Matthey
+858754801,Vers-chez-Blanc
+858754802,Vers-chez-Blanc
+858754901,Vulliette
+858754902,Vulliette
+858755001,Perronnaz
+858755002,Perronnaz
+858785301,Petit-Mont
+858785302,Petit-Mont
+858792901,Chalet-à-Gobet
+858792904,Chalet-à-Gobet
+858815501,Chantres
+858815502,Chantres
+858815601,Laviau
+858815602,Laviau
+858815701,Bochet
+858815704,Bochet
+858815801,St-Sulpice
+858815802,St-Sulpice
+858843101,Béthusy
+858843102,Béthusy
+858843103,Béthusy
+858843201,Chailly-Village
+858843202,Chailly-Village
+858843401,"Pully, Rosiaz"
+858843402,"Pully, Rosiaz"
+858843403,"Pully, Rosiaz"
+858843501,Chenaulaz
+858843502,Chenaulaz
+858843602,Grands Champs
+858843603,Grands Champs
+858843801,"Lutry, Echerins"
+858843802,"Lutry, Echerins"
+858843901,"Pully, port"
+858843902,"Pully, port"
+858843903,"Pully, port"
+858844001,"Pully, Somais"
+858844002,"Pully, Somais"
+858844102,Châtaignier
+858844103,Châtaignier
+858844104,Châtaignier
+858844201,"Pully, Osches"
+858844202,"Pully, Osches"
+858844501,"Pully, gare"
+858844503,"Pully, gare"
+858844504,"Pully, gare"
+858844505,"Pully, gare"
+858844601,"Pully, Clergère"
+858844603,"Pully, Clergère"
+858844604,"Pully, Clergère"
+858844605,"Pully, Clergère"
+858844701,"Pully, Rochettaz"
+858844702,"Pully, Rochettaz"
+858844802,"Pully, Boverattes"
+858844803,"Pully, Boverattes"
+858844901,"Pully, Vallon"
+858844902,"Pully, Vallon"
+858845002,Pré Pariset
+858845004,Pré Pariset
+858845101,"Lutry, Sapelle"
+858845102,"Lutry, Sapelle"
+858845201,"Lutry, Jordillon"
+858845202,"Lutry, Jordillon"
+858845301,"Aran, Pra Forny"
+858845302,"Aran, Pra Forny"
+858845401,Grandv. P. Grana
+858883901,"Renens, 14 Avril"
+858883903,"Renens, 14 Avril"
+858883904,"Renens, 14 Avril"
+858884001,"Crissier, Noutes"
+858884002,"Crissier, Noutes"
+858884101,Scierie
+858884102,Scierie
+858884201,Place Centrale
+858884202,Place Centrale
+858884205,Place Centrale
+858884302,"Crissier, bourg"
+858884303,"Crissier, bourg"
+858884500,Crissier Timonet
+858884501,Crissier Timonet
+858884502,Crissier Timonet
+858884504,Crissier Timonet
+858884505,Crissier Timonet
+858884506,Crissier Timonet
+858884601,Croix-Péage
+858884603,Croix-Péage
+858884605,Croix-Péage
+858884606,Croix-Péage
+858884701,Villars-St-Croix
+858884802,Sansy
+858885001,"Mex, Les Esserts"
+858885004,"Mex, Les Esserts"
+858885101,"Mex VD, Trésy"
+858885102,"Mex VD, Trésy"
+858885301,"Mex, village"
+858885302,"Mex, village"
+858887302,Pontet
+858887304,Pontet
+858952303,Bessières
+858952304,Bessières
+858952307,Bessières
+858952501,Planches
+858952502,Planches
+859044201,Riponne-M.Béjart
+859044202,Riponne-M.Béjart
+859044203,Riponne-M.Béjart
+859044204,Riponne-M.Béjart
+859044208,Riponne-M.Béjart
+859044210,Riponne-M.Béjart
+859181814,"Lausanne, Flon"
+859193001,"Buss.,Croix-Plan"
+859193002,"Buss.,Croix-Plan"
+859193102,"Bussigny, Buyère"
+859193103,"Bussigny, Buyère"
+859193301,Planta
+859193302,Planta
+859193501,Arc-en-Ciel
+859193502,Arc-en-Ciel
+859193601,Closalet
+859193901,"Crissier, Vernie"
+859193902,"Crissier, Vernie"
+859193903,"Crissier, Vernie"
+859194001,"Cugy, Cavenette"
+859194002,"Cugy, Cavenette"
+859194403,Argand
+859194404,Argand
+859194501,Champagne
+859194502,Champagne
+859194801,Croset
+859194802,Croset
+859194901,En Enjalin
+859194902,En Enjalin
+859195001,Allée de Dorigny
+859195002,Allée de Dorigny
+859195301,Parc
+859195302,Parc
+859195403,Perrettes
+859195404,Perrettes
+859195501,Place de Sport
+859195502,Place de Sport
+859195601,Renges
+859195602,Renges
+859195701,Stand
+859195702,Stand
+859195801,Suchet-Forêt
+859195802,Suchet-Forêt
+859195901,Champs-Courbes
+859195902,Champs-Courbes
+859196001,Veilloud
+859196002,Veilloud
+859196101,Villars
+859196102,Villars
+859196201,Ballègue
+859196202,Ballègue
+859196301,"Epal., Biolleyre"
+859196302,"Epal., Biolleyre"
+859196401,Bois Murat
+859196501,Girarde
+859196504,Girarde
+859196601,Croix Blanche
+859196602,Croix Blanche
+859196701,En Praz Bin
+859196702,En Praz Bin
+859196801,Grand Chemin
+859196902,Polny
+859197003,Pré-d'Yverdon
+859197004,Pré-d'Yverdon
+859197103,Tuileries
+859197104,Tuileries
+859197601,"Conversion, Gare"
+859197602,"Conversion, Gare"
+859197701,Abeilles
+859197702,Abeilles
+859197801,Allières/CHUV
+859197802,Allières/CHUV
+859197901,Alpes
+859197902,Alpes
+859198001,Aubépines
+859198100,Avenue du Léman
+859198101,Avenue du Léman
+859198102,Avenue du Léman
+859198201,Barre
+859198301,Batelière
+859198302,Batelière
+859198402,Beaulieu
+859198405,Beaulieu
+859198504,jardin botanique
+859198505,jardin botanique
+859198601,Beau-Rivage
+859198602,Beau-Rivage
+859198701,Beau-Site
+859198702,Beau-Site
+859198703,Beau-Site
+859198801,Bel-Air
+859198802,Bel-Air
+859198806,Bel-Air
+859198807,Bel-Air
+859198901,Bellerive
+859198902,Bellerive
+859199001,Belvédère
+859199002,Belvédère
+859199101,Benj. Constant
+859199102,Benj. Constant
+859199202,Bergières
+859199203,Bergières
+859199301,Béthanie
+859199302,Béthanie
+859199401,Blécherette
+859199402,Blécherette
+859199403,Blécherette
+859199501,Bois de Vaux
+859199502,Bois de Vaux
+859199601,Bois-Gentil
+859199602,Bois-Gentil
+859199701,Boissonnet
+859199705,Boissonnet
+859199801,Boisy
+859199802,Boisy
+859199901,Bonne-Espérance
+859199902,Bonne-Espérance
+859200001,Bossons
+859200003,Bossons
+859200101,Boston
+859200102,Boston
+859200103,Boston
+859200104,Boston
+859200201,Boveresses
+859200202,Boveresses
+859200301,Casernes
+859200304,Casernes
+859200305,Casernes
+859200401,Cécil
+859200402,Cécil
+859200501,Cèdres
+859200502,Cèdres
+859200801,Champ Rond
+859200802,Champ Rond
+859200901,Chandolin
+859200902,Chandolin
+859201001,Chauderon
+859201002,Chauderon
+859201003,Chauderon
+859201004,Chauderon
+859201006,Chauderon
+859201009,Chauderon
+859201012,Chauderon
+859201101,Chauderon-Ale
+859201201,Chemin du Cap
+859201501,Chevreuils
+859201502,Chevreuils
+859201601,Chocolatière
+859201602,Chocolatière
+859201701,CHUV
+859201703,CHUV
+859201801,Cigale
+859201802,Cigale
+859201901,Clochatte
+859202001,Closelet
+859202003,Closelet
+859202101,Cottages
+859202102,Cottages
+859202201,Couchirard
+859202202,Couchirard
+859202301,Coudrette
+859202302,Coudrette
+859202401,Cour
+859202501,Craivavers
+859202503,Craivavers
+859202601,Croix d'Ouchy
+859202602,Croix d'Ouchy
+859202701,Dapples
+859202702,Dapples
+859202803,Délices
+859202804,Délices
+859202901,Denantou
+859202902,Denantou
+859203003,Désert
+859203101,Devin
+859203102,Devin
+859203201,Dranse
+859203202,Dranse
+859203301,Druey
+859203401,Druey-Collège
+859203402,Druey-Collège
+859203502,Gymnase Beaulieu
+859203601,Ecole Métiers
+859203602,Ecole Métiers
+859203701,Cojonnex/EHL
+859203702,Cojonnex/EHL
+859203801,Eglantine
+859203802,Eglantine
+859203901,Elysée
+859203902,Elysée
+859204001,Epinettes
+859204002,Epinettes
+859204101,EPSIC
+859204102,EPSIC
+859204201,Fauconnières
+859204202,Fauconnières
+859204301,Faverges
+859204401,Figuiers
+859204402,Figuiers
+859204403,Figuiers
+859204404,Figuiers
+859204501,Floreyres
+859204502,Floreyres
+859204601,Fontenay
+859204602,Fontenay
+859204703,Forêt
+859204704,Forêt
+859204804,Fourmi
+859204805,Fourmi
+859204903,"Prilly, Galicien"
+859204904,"Prilly, Galicien"
+859204912,"Prilly, Galicien"
+859205007,"Lausanne, gare"
+859205009,"Lausanne, gare"
+859205010,"Lausanne, gare"
+859205011,"Lausanne, gare"
+859205012,"Lausanne, gare"
+859205013,"Lausanne, gare"
+859205017,"Lausanne, gare"
+859205101,Georgette
+859205102,Georgette
+859205103,Georgette
+859205104,Georgette
+859205106,Georgette
+859205107,Georgette
+859205301,Grande-Borde
+859205302,Grande-Borde
+859205401,Grand Vennes
+859205501,Grangette
+859205502,Grangette
+859205601,Grattapaille
+859205602,Grattapaille
+859205701,Grey
+859205702,Grey
+859205801,Haute Combe
+859205802,Haute Combe
+859205901,Hermitage
+859205902,Hermitage
+859205903,Hermitage
+859206001,Beaulieu-Jomini
+859206003,Beaulieu-Jomini
+859206004,Beaulieu-Jomini
+859206006,Beaulieu-Jomini
+859206104,Jordils
+859206107,Jordils
+859206201,Jurigoz
+859206202,Jurigoz
+859206301,Lac Sauvabelin
+859206302,Lac Sauvabelin
+859206401,Languedoc
+859206402,Languedoc
+859206501,Les Chavannes
+859206502,Les Chavannes
+859206601,Libellules
+859206602,Libellules
+859206701,Lisière
+859206702,Lisière
+859206801,Maladière
+859206802,Maladière
+859206803,Maladière
+859207001,Mauvernay
+859207002,Mauvernay
+859207101,Mémise
+859207102,Mémise
+859207201,Mirabeau
+859207301,Molliettes
+859207302,Molliettes
+859207401,Mon Repos
+859207402,Mon Repos
+859207501,Mont d'Or
+859207502,Mont d'Or
+859207601,Mont-Blanc
+859207602,Mont-Blanc
+859207701,Montchoisi
+859207703,Montchoisi
+859207704,Montchoisi
+859207803,Montétan
+859207804,Montétan
+859207901,Mont-Fleuri
+859207903,Mont-Fleuri
+859208001,Montoie
+859208002,Montoie
+859208101,Montolieu
+859208201,Motte
+859208202,Motte
+859208301,Mousquines
+859208302,Mousquines
+859208401,Musée Olympique
+859208402,Musée Olympique
+859208404,Musée Olympique
+859208501,Oiseaux
+859208601,Ouchy-Olympique
+859208605,Ouchy-Olympique
+859208701,Parc Rivier
+859208702,Parc Rivier
+859208801,Parc Vélodrome
+859208802,Parc Vélodrome
+859208901,Pavement
+859208902,Pavement
+859209001,Pêcheurs
+859209002,Pêcheurs
+859209101,Petit Château
+859209201,Piécettes
+859209202,Piécettes
+859209401,Non desservi
+859209402,Non desservi
+859209601,Pont Chauderon
+859209701,Pont Marc Dufour
+859209702,Pont Marc Dufour
+859209803,Port-Franc
+859209901,Praz-Berthoud
+859209902,Praz-Berthoud
+859210001,Praz-Collet
+859210002,Praz-Collet
+859210101,Praz-Séchaud
+859210201,Prélaz
+859210202,Prélaz
+859210303,Halle Sébeillon
+859210304,Halle Sébeillon
+859210305,Halle Sébeillon
+859210306,Halle Sébeillon
+859210307,Halle Sébeillon
+859210401,Presbytère
+859210402,Presbytère
+859210502,Provence nord
+859210601,Provence sud
+859210602,Provence sud
+859210701,Rapille
+859210702,Rapille
+859210901,Recordon
+859210902,Recordon
+859211001,Riant-Cour
+859211002,Riant-Cour
+859211101,Rouvraie
+859211201,Rozavère
+859211202,Rozavère
+859211401,Sablons
+859211402,Sablons
+859211501,Signal
+859211502,Signal
+859211503,"Lausanne, Signal"
+859211601,Stade Olympique
+859211602,Stade Olympique
+859211801,St-Etienne
+859211802,St-Etienne
+859211902,St-Paul
+859211903,St-Paul
+859212001,St-Roch
+859212002,St-Roch
+859212003,St-Roch
+859212102,Théâtre de Vidy
+859212103,Théâtre de Vidy
+859212201,Tivoli
+859212202,Tivoli
+859212301,Trabandan
+859212401,Valency
+859212402,Valency
+859212502,Valentin
+859212504,Valentin
+859212601,Vallonnette
+859212602,Vallonnette
+859212702,Valmont
+859212703,Valmont
+859212804,Vennes
+859212805,Vennes
+859212901,Verdeil
+859213002,Vert-Bois/EHL
+859213101,Victor-Ruffy
+859213102,Victor-Ruffy
+859213201,Vieux-Moulin
+859213203,Vieux-Moulin
+859213204,Vieux-Moulin
+859213301,Vigie
+859213303,Vigie
+859213304,"Lausanne, Vigie"
+859213402,Villard
+859213501,Vinet
+859213502,Vinet
+859213601,Virgile-Rossel
+859213602,Virgile-Rossel
+859213701,Cascades
+859213702,Cascades
+859213801,Vulliemin
+859213901,"Le Mont, Budron"
+859213902,"Le Mont, Budron"
+859214001,Côtes
+859214002,Côtes
+859214103,Etavez
+859214104,Etavez
+859214201,Fougères
+859214202,Fougères
+859214301,Martines
+859214302,Martines
+859214501,Avenue William
+859214502,Avenue William
+859214601,Brélaz
+859214602,Brélaz
+859214701,Brûlées
+859214702,Brûlées
+859214901,Corsy-Dessous
+859214902,Corsy-Dessous
+859214903,Corsy-Dessous
+859215001,Grand-Pont
+859215002,Grand-Pont
+859215101,Colline
+859215102,Colline
+859215201,Corsy-Dessus
+859215202,Corsy-Dessus
+859215203,Corsy-Dessus
+859215301,Gravesse
+859215302,Gravesse
+859215401,Les Champs
+859215402,Les Champs
+859215501,"Lutry, Corniche"
+859215701,Marionnettes
+859215702,Marionnettes
+859215801,Orzens
+859215802,Orzens
+859215901,Ponfilet
+859215902,Ponfilet
+859216001,Rive
+859216101,Savoie
+859216102,Savoie
+859216201,Savuit-Place
+859216202,Savuit-Place
+859216401,Voisinand
+859216402,Voisinand
+859216701,Marronnier
+859216702,Marronnier
+859216802,Verrière
+859216901,"Paudex, village"
+859216902,"Paudex, village"
+859217001,Bourdonnière
+859217002,Bourdonnière
+859217101,Bruyère
+859217201,C. F. Ramuz
+859217202,C. F. Ramuz
+859217301,"Prilly, centre"
+859217302,"Prilly, centre"
+859217303,"Prilly, centre"
+859217304,"Prilly, centre"
+859217305,"Prilly, centre"
+859217501,Prilly-Chasseur
+859217502,Prilly-Chasseur
+859217503,"Prilly, Chasseur"
+859217505,"Prilly, Chasseur"
+859217602,Coudraie
+859217603,Coudraie
+859217604,Coudraie
+859217701,Daillettes
+859217801,Temple de Broye
+859217802,Temple de Broye
+859217803,Temple de Broye
+859217901,Flumeaux
+859217902,Flumeaux
+859218001,Grand Vigne
+859218002,Grand Vigne
+859218101,Huttins
+859218102,Huttins
+859218201,Joliette
+859218202,Joliette
+859218301,Les Liaudes
+859218302,Les Liaudes
+859218501,Margerol
+859218502,Margerol
+859218601,Métairie
+859218602,Métairie
+859218701,Mont-Goulin
+859218702,Mont-Goulin
+859218704,Mont-Goulin
+859218801,Montillier
+859218802,Montillier
+859218803,Montillier
+859218901,Moulins
+859218902,Moulins
+859219001,Perraudettaz
+859219002,Perraudettaz
+859219102,Pavillard
+859219103,Pavillard
+859219201,Corminjoz
+859219202,Corminjoz
+859219301,Pierraz-Portay
+859219302,Pierraz-Portay
+859219501,Reymondin
+859219502,Reymondin
+859219602,Roses
+859219604,Roses
+859219701,Tour Haldimand
+859219702,Tour Haldimand
+859219801,Verney
+859219802,Verney
+859219901,Vignes
+859219902,Vignes
+859220001,1er Août
+859220002,1er Août
+859220101,1er Mai
+859220102,1er Mai
+859220201,"Renens, Avenir"
+859220202,"Renens, Avenir"
+859220302,Baumettes
+859220304,Baumettes
+859220401,"Renens, Biondes"
+859220402,"Renens, Biondes"
+859220501,Borjod
+859220503,Borjod
+859220601,Bourg-Dessus
+859220603,Bourg-Dessus
+859220604,Bourg-Dessus
+859220606,Bourg-Dessus
+859220701,"Renens, Vorsiaz"
+859220702,"Renens, Vorsiaz"
+859220901,Censuy
+859220902,Censuy
+859221003,"Renens, Marais"
+859221004,"Renens, Marais"
+859221101,Florissant
+859221102,Florissant
+859221201,Follieu
+859221202,Follieu
+859221301,Hôtel-Ville/ECAL
+859221302,Hôtel-Ville/ECAL
+859221401,Industrie
+859221403,Industrie
+859221501,Longemalle
+859221502,Longemalle
+859221704,Perrelet
+859221707,Perrelet
+859221801,Caudray
+859221802,Caudray
+859221901,Rue du Lac
+859221902,Rue du Lac
+859222001,Saugiaz
+859222002,Saugiaz
+859222101,Sous l'Eglise
+859222102,Sous l'Eglise
+859222201,Sur-la-Croix
+859222202,Sur-la-Croix
+859222301,Croisée/Tilleuls
+859222302,Croisée/Tilleuls
+859222601,Russel
+859222602,Russel
+859222701,Pâqueret
+859222704,Pâqueret
+859222705,Pâqueret
+859324901,Rionzi
+859324902,Rionzi
+859377901,"Vufflens, gd salle"
+859377902,"Vufflens, gd salle"
+859378002,Cuvillard
+859378003,Cuvillard
+859378102,"Vufflens, église"
+859378103,"Vufflens, église"
+859378201,"Vufflens, gare"
+859379501,Chaffeises
+859379502,Chaffeises
+859379802,Burenoz
+859379803,Burenoz
+859380601,Rouvène
+859380602,Rouvène
+859381501,"Crissier, Jura"
+859381502,"Crissier, Jura"
+859381503,"Crissier, Jura"
+859381603,Marcolet
+859381605,Marcolet
+859381701,Feleire
+859381702,Feleire
+859381901,Bois-de-Ban
+859382000,Florimont
+859382105,Giziaux
+859382201,Montéclard
+859382202,Montéclard
+859383703,Maladière-Figuiers
+859383704,Maladière-Figuiers
+859383803,Maladière-Lac
+859384401,Vallée Jeunesse
+859384402,Vallée Jeunesse
+859384501,Coppoz-Poste
+859384502,Coppoz-Poste
+859384901,Cery
+859384902,Cery
+859385002,Caudoz
+859385003,Caudoz
+859385601,Bossières
+859385602,Bossières
+859385800,"Lutry, Culturaz"
+859386101,"Lutry, gare"
+859386102,"Lutry, gare"
+859386103,"Lutry, gare"
+859386601,Préfaully
+859386602,Préfaully
+859386701,Chavannes Plaine
+859386702,Chavannes Plaine
+859386801,Concorde
+859386802,Concorde
+859386803,Concorde
+859386901,Glycines
+859386902,Glycines
+859386903,Glycines
+859417701,"Bussigny, Cocagne"
+859417702,"Bussigny, Cocagne"
+859417801,"Bussigny, Rente"
+859417802,"Bussigny, Rente"
+859417803,"Bussigny, Rente"
+859417804,"Bussigny, Rente"
+859427001,"Mex, Faraz"
+859489001,Montaney
+859489002,Montaney
+859498601,Berges
+859498602,Berges
+859498701,Mouline
+859498702,Mouline
+859498801,Venoge nord
+859498802,Venoge nord
+859500401,Entre-Bois
+859500402,Entre-Bois
+859500501,Maillefer
+859514701,Châtelard
+859514702,Châtelard
+859514801,"Crissier, Chisaz"
+859514802,"Crissier, Chisaz"
+859519001,Malavaux
+859519101,C. Sportif Rochet.
+859519102,C. Sportif Rochet.
+859519201,Ruisselet
+859519202,Ruisselet
+859522301,Parc Scientifique
+859522302,Parc Scient.
+859551601,Mongevon
+859551603,Mongevon
+859552101,Bourdonnette N.
+859552102,Bourdonnette N.
+859553402,"Renens, Piscine"
+859553404,"Renens, Piscine"
+859560203,Dorigny
+859560204,Dorigny
+859562501,Pâquis
+859593301,Parc Musée Olymp.
+859593302,Parc Musée Olymp.
+859593401,Siège du CIO
+859593402,Siège du CIO
+859593501,Stade Coubertin
+859593502,Stade Coubertin
+859593601,T. Haldimand-Lac
+859593602,T. Haldimand-Lac
+859593701,Sports UNIL-EPFL
+859593702,Sports UNIL-EPFL
+859593801,Vidy-Port
+859593802,Vidy-Port
+859593901,Parc Bourget
+859593902,Parc Bourget
+859597801,Colice
+859597802,Colice
+859598601,Lentillières
+859598602,Lentillières
+859605301,Blévallaire
+859605302,Blévallaire
