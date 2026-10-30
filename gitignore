@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+results/**/delay_model.txt
+data/raw/tl_istdaten_2026-09_part*.csv.gz
+results/sample/model/
